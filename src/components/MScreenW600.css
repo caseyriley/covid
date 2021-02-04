@@ -1,0 +1,5 @@
+@media screen and (max-width: 600px){
+  #thanks-modal__button {
+    font-size: 20px;
+  }
+}

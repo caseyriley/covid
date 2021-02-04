@@ -1,0 +1,13 @@
+@media screen and (max-width: 300px){
+  #thanks-modal__button {
+    font-size: 11px;
+  }
+  .svg-icon-large {
+    width: 175px;
+    height: 175px;
+  }
+  #covid-survey-submit{
+    left: -2rem;
+  }
+
+}

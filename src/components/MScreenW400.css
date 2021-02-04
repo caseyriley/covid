@@ -1,0 +1,26 @@
+@media screen and (max-width: 400px){
+  #thanks-modal__button {
+    font-size: 13px;
+    margin: 30px 0px 30px 0px;
+  }
+  .svg-icon-large {
+    width: 200px;
+    height: 200px;
+    margin: 40px 0px 40px 0px;
+  }
+  #thanks-modal h1 {
+    font-size: 23px;
+  }
+  #thanks-modal__p {
+    width: 90%;
+    font-size: 20px;
+    margin: 30px 0px 0px 0px;
+  }
+
+  #covid-survey-submit{
+    width: 200px;
+    position: relative;
+    margin: 60px 0px 60px calc(50% - 100px);
+    /* left: -2rem; */
+  }
+}
